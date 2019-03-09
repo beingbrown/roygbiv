@@ -14,4 +14,7 @@ a minimalist design language
 
 ## Munsell
 
+* Red: #F2003C
+* Yellow: #EFCC00
+* Blue: #0093AF
 * Purple: #9F00C5
