@@ -16,5 +16,6 @@ a minimalist design language
 
 * Red: #F2003C
 * Yellow: #EFCC00
+* Green: #00A877
 * Blue: #0093AF
 * Purple: #9F00C5
