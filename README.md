@@ -19,3 +19,8 @@ a minimalist design language
 * Green: #00A877
 * Blue: #0093AF
 * Purple: #9F00C5
+
+## Absolute
+* Red: FF0000
+* Green: 00FF00
+* Blue: 0000FF
