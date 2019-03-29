@@ -1,26 +1,13 @@
 # roygbiv
-a minimalist design language
+a minimalist design language inspired by material, NCS, and Munsell and absolute colors
 
-## NCS colors
+## Colors
 
-* Red: #C40233
-* Yellow: #FFD300
-* Blue: #0087BD
+* red: #FF0000
+* orange: #FF971A
+* yellow: #FFFF00
+* green: #09BA00
+* blue: #0000FF
+* indigo: #4B0082
+* violet: #8B00FF
 
-## median colors
-
-* Orange: #e26a1a
-* Green: #80ad5c
-
-## Munsell
-
-* Red: #F2003C
-* Yellow: #EFCC00
-* Green: #00A877
-* Blue: #0093AF
-* Purple: #9F00C5
-
-## Absolute
-* Red: FF0000
-* Green: 00FF00
-* Blue: 0000FF
